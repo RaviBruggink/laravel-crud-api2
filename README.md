@@ -38,11 +38,6 @@ Maak een `.env`-bestand aan vanuit het voorbeeld:
 cp .env.example .env
 ```
 
-Genereer een applicatiesleutel:
-```bash
-sail artisan key:generate
-```
-
 ### 5. 💾 Database migraties draaien
 ```bash
 sail artisan migrate
