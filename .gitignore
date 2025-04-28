@@ -24,5 +24,4 @@ yarn-error.log
 /vendor
 /node_modules
 /.env
-/docker-compose.yml
 
